@@ -26,14 +26,14 @@ a{
 #home{
 
 	position: relative;
-	right: -400px;
+	right: 200px;
 
 }
 
 #second{
 	
 	position: relative;
-	right:-420px;
+	right:100px;
 
 }
 
@@ -42,10 +42,7 @@ nav{
 	border-style:solid;
 	border-color:black;
 	width:900px;
-	height: 100px;
-	background-image: url("../images/skyline3.jpg");
-	background-position: 0 150px;
-	background-size: 900px 200px;
+	
 
 
 	
@@ -85,10 +82,3 @@ img{
 
 		color:black;
 }
-
-
-
-
-
-
-
